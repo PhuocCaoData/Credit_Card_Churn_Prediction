@@ -68,9 +68,13 @@ The model reveals that behavioral metrics (e.g., total transaction count and amo
 
 2. Actionable Output (Risk Tiers)
 Instead of a simple 0 or 1 output, the model provides a strategic action plan. Here is an example of how the output is categorized for the business team:
+
 🔴 Critical (>80% risk): Immediate human outreach required.
+
 🟠 High (60–80% risk): Automated retention campaign enrollment.
+
 🟡 Medium (30–60% risk): Monitor closely for the next 30 days.
+
 🟢 Low (<30% risk): Standard customer journey.
 
 ## 🙏 Acknowledgments

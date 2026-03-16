@@ -44,12 +44,12 @@ Throughout this project, I transitioned from simply "running machine learning mo
 
 **1. Clone the repository & Setup Environment:**
 
-** Create and activate virtual environment (Windows)**
+  **Create and activate virtual environment (Windows)**
 1.  python -m venv churn_env
 
 2.  churn_env\Scripts\activate
 
-**Install dependencies**
+  **Install dependencies**
 
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn category_encoders
 

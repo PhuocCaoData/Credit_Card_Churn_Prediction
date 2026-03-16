@@ -49,7 +49,8 @@ Throughout this project, I transitioned from simply "running machine learning mo
 
 2.  churn_env\Scripts\activate
 
-** Install dependencies**
+**Install dependencies**
+
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn category_encoders
 
 **2. Run the project:**

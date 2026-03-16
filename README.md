@@ -44,14 +44,14 @@ Throughout this project, I transitioned from simply "running machine learning mo
 
 **1. Clone the repository & Setup Environment:**
 
-# Create and activate virtual environment (Windows)
+** Create and activate virtual environment (Windows)
 python -m venv churn_env
 churn_env\Scripts\activate
 
-# Install dependencies
+** Install dependencies
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn category_encoders
 
-**2. Run the project:
+**2. Run the project:**
 *Ensure the raw dataset BankChurners.csv is located in the root directory.
 *Open the main analysis notebook:
 jupyter notebook BankChurners_Churn_Prediction_1.ipynb

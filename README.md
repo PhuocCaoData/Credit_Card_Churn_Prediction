@@ -9,7 +9,7 @@
 - [List of Features](#-list-of-features)
 - [Technologies Used](#-technologies-used)
 - [What I Learned & Accomplished](#-what-i-learned--accomplished)
-- [PhuocCaoData](#-PhuocCaoData)
+- [Getting Started](#-GettingStarted)
 - [Examples](#-examples)
 - [Acknowledgments](#-acknowledgments)
 
@@ -40,7 +40,7 @@ Throughout this project, I transitioned from simply "running machine learning mo
 - **Beyond the "Accuracy" Trap:** I realized that "Accuracy" is a highly misleading metric for imbalanced datasets (16% churn rate). I successfully prioritized and optimized the XGBoost model for **Recall (capturing >91% of churners)** and Precision-Recall AUC.
 - **Explainable AI (XAI):** I utilized Feature Importance to understand the *why* behind the model's predictions, proving that customer behavioral data (transaction frequency/amounts) heavily outweighs demographic data (age/gender) in predicting churn.
 
-## 🚀 PhuocCaoData
+## 🚀 Getting Started
 
 **1. Clone the repository & Setup Environment:**
 

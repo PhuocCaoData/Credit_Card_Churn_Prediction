@@ -19,6 +19,8 @@ Customer attrition (churn) is one of the most significant hidden costs for finan
 **Why was this project built?**
 While many beginner projects chase misleading "Accuracy" metrics on highly imbalanced datasets, this project was built to solve a real-world business problem. It focuses strictly on optimizing **Recall** and translating model predictions into actionable Business ROI. By accurately identifying at-risk customers, this solution enables targeted retention campaigns that can potentially save the bank an estimated **$1.75M annually**.
 
+This project utilizes the following dataset: **https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers**
+
 ## ✨ List of Features
 - **Zero Data Leakage:** Strict Train/Test splitting *before* applying techniques like SMOTE and Bayesian Target Encoding.
 - **Business-Centric Evaluation:** Prioritizes Recall (>91%) and PR-AUC over standard Accuracy to effectively capture churning customers.

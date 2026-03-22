@@ -9,7 +9,7 @@
 - [List of Features](#-list-of-features)
 - [Technologies Used](#-technologies-used)
 - [What I Learned & Accomplished](#-what-i-learned--accomplished)
-- [Getting Started](#-GettingStarted)
+- [Getting Started](#-Getting--Started)
 - [Examples](#-examples)
 - [Acknowledgments](#-acknowledgments)
 

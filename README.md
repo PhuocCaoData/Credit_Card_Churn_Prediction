@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Prediction: An End-to-End ML Solution
+# 🏦 Bank Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Advanced-red.svg)
